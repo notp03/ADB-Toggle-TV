@@ -1,4 +1,3 @@
-
 package com.local.adbtoggle
 
 import android.app.Activity
